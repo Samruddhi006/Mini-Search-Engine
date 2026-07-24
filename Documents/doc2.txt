@@ -1,0 +1,5 @@
+Information retrieval systems organize documents for fast searching.
+A search engine builds an inverted index after processing every document.
+Boolean AND search returns only the documents containing all query words.
+Ranking is performed using term frequency.
+Index index index search retrieval retrieval retrieval.

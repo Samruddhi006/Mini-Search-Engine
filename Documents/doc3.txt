@@ -1,0 +1,4 @@
+Machine learning and artificial intelligence improve modern search engines.
+Autocomplete suggestions can be implemented using a trie data structure.
+A trie efficiently stores prefixes of words and provides fast prefix search.
+Machine learning learning learning autocomplete trie trie search.

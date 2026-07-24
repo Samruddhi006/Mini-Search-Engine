@@ -1,0 +1,4 @@
+Data structures and algorithms are important for software development.
+Hash maps store key value pairs efficiently.
+Trees, tries, graphs, and arrays are common data structures.
+Algorithms algorithms algorithms search index trie graph graph.

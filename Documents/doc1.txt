@@ -1,0 +1,6 @@
+Search engines are used to find information quickly from a large collection of documents.
+An inverted index stores every unique word and maps it to the documents containing that word.
+Tokenization splits text into individual words.
+Stop word removal improves search efficiency by ignoring common words.
+The search engine calculates term frequency for ranking search results.
+Search search search ranking ranking index index.
