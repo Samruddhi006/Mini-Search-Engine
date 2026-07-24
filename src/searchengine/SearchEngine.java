@@ -22,7 +22,7 @@ class SearchEngine{
         int id=1;
         for(int i=1;i<=4;i++){
             try{
-                String content=Files.readString(Paths.get("Docs/doc"+i+".txt"));
+                String content=Files.readString(Paths.get("Documents/doc"+i+".txt"));
                 docs.add(new Documents(id++, "doc"+i, content));
             }catch(IOException e){
                 System.out.println("file cannot be read\n"+e.getMessage());
